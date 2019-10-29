@@ -1,0 +1,30 @@
+﻿User instructions (self-dialogs) - restaurant-table-2
+
+
+THIS IS A NEW VERSION OF THIS TASK WHICH INVOLVES MAKING THE CUSTOMER HAVE TO CHOOSE NEW OPTIONS WHEN THE FIRST OPTIONS ARE NOT AVAILABLE.
+
+
+1. To begin, think of two restaurants you know of that require reservations for dinner. You will use these in the dialogue you write.  IF YOU'VE DONE THIS BEFORE, THINK OF NEW CHOICES AND PLACES.
+
+
+2. In this conversation you will ONLY book a table, but TWO THINGS about what you're looking for won't be available. Here is a list of all the things the assistant will need for your reservation:
+
+
+- Restaurant name (and location if necessary).
+- Day/Date
+- Time
+- Number of people
+- Other requests (e.g. outside seating, booth, high chair for kids, etc)
+
+
+3(a) After the customer makes the first requested choices (all the categories above), the assistant should respond that one of the options above is not available, so the customer has to choose a different value.
+
+
+3(b) After choosing a different value for that option, the assistant AGAIN responds that it's not available either.
+AT THIS point, the customer decides to change the restaurant (second choice).
+
+
+4. With the new restaurant, the customer's choices for all the options should be available and the reservation can be booked at the new restaurant.
+
+
+YOUR TASK: Write the conversation that results between you and your assistant. It must be at least 10 turns long (for both you and the assistant).  Below we have provided 15 turns in case you need more. KEEP IT NEW AND FRESH! DON'T REPEAT DIALOGUES FROM THE PAST!

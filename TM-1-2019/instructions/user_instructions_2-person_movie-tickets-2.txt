@@ -1,0 +1,13 @@
+movie-tickets-2
+
+MAIN TASK: Pretend you are using your voice-powered personal digital assistant to book movie tickets for you.
+(This is slightly different than the recent movie tickets task that has been out. Please read carefully.)
+
+1. Start by thinking of a particular movie PLAYING NOW in theaters that you'd like to see. (Use the internet to find one if necessary.)
+2. Choose a DIFFERENT CITY from where you live, work, or happen to be at the moment.
+3. Number of tickets you want: {num}
+4. >> Tell the assistant that you want to see this movie specifically "{time} today". 
+5. The assistant will get all all additional relevant details for you to buy tickets BUT you should make sure they cover all your needs.
+6. IMPORTANT STEP: Once you have the details of the ticket(s) ask {extra} 
+7. You can assume you already have an account with the ticket service--so no credit card information is necessary.
+8. The assistant will end the conversation by confirming that your tickets are being sent to your mobile device as a text message. (And you can respond thanks, goodbye, ok, etc. for a final closing turn, if you like).

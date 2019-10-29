@@ -1,0 +1,38 @@
+﻿Agent instructions - restaurant-table-2
+
+
+(This task is similar to the recent "restaurant-table-1" but there is MORE searching and NO table booking.)
+
+
+1. THE SCENARIO: Users will pretend they are searching for a place to eat LUNCH in SACRAMENTO.
+
+
+2. The user will say they are at one of these two specific locations:
+* The Arden Fair Mall in Sacramento, CA 
+   * (this can include the Elephant Bar and Olive Garden which are across the street)
+* Midtown near L St. & 19th St. in Sacramento, CA
+   * (everything within 5-10 blocks should be fair game)
+
+
+3. When you get into the actual dialogue, the users will be searching for a restaurant based on their actual preferences.
+* Use GOOGLE for all your searches and details. (not yelp or other external sites)
+* TYPES OF FOOD they like
+* THREE additional restaurant characteristics (these should be genuine and specific to what the user likes)
+
+
+4. When they’ve given you all this information...
+* First offer them 2-3 restaurants to choose from.
+   * For each one paste part of the blurb found in the Google results (not the whole thing if it’s too long. Maybe just the first sentence....use your judgment).
+* Second, have them ask 2-3 questions about each one. (They are told to do this in their instructions.)
+
+
+5. AFTER all of (3-4), they will need to choose one AND get the restaurant’s phone number.
+
+
+6. No table reservations in this activity.
+
+
+ REMEMBER: Use GOOGLE for all your searches and details. (not yelp or other external sites)
+
+
+7. You can end the dialogue once they have confirmed they have got the phone number.

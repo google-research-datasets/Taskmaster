@@ -1,0 +1,26 @@
+﻿User instructions (self-dialogs) - restaurant-table-3
+
+
+IN THIS DIALOGUE, THE CUSTOMER WILL END UP DECIDING NOT TO BOOKING A TABLE-----BUT ONLY AFTER trying choices with two restaurants.
+
+
+1. To begin, think of two restaurants you know of that require reservations for dinner. You will use these in the dialogue you write.  IF YOU'VE DONE THIS BEFORE, THINK OF NEW CHOICES AND PLACES.
+
+
+2. After the customer gives preferences below for the first restaurant, the assistant will reply that 2 of the choice (you choose) are not available (like time or number of people or type of seating or whatever).
+
+
+- Restaurant name (and location if necessary).
+- Day/Date
+- Time
+- Number of people
+- Other requests (e.g. outside seating, booth, high chair for kids, etc)
+
+
+3. Now the customer tries the SAME choices at the second restaurant. This time, the assistant will give details about how ONE of the choices is still not available (again, time or number of people or type of seating or whatever).
+
+
+4. Given that the user cannot get what they want at either restaurant, they decide to just NOT book a table.
+
+
+YOUR TASK: Write the conversation that results between you and your assistant. It must be at least 10 turns long (for both you and the assistant).  Below we have provided 15 turns in case you need more. KEEP IT NEW AND FRESH! DON'T REPEAT DIALOGUES FROM THE PAST!

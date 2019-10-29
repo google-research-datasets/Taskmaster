@@ -1,0 +1,51 @@
+﻿Agent instructions - Auto-repair-appt-2
+
+
+In these conversations, users will call their assistant to set up an auto repair appointment with a repair shop called “Intelligent Auto Imports”.
+
+
+THE DIFFERENCE from auto-repair-1: In these conversations we will have you create more conversational hiccups, errors, etc. to make the flow more realistic. Please see the additions below IN BOLD to mark where this conversation would diverge from the auto-repair-1.
+
+
+Your job as the Assistant is to set up the appointment on their behalf. By the end of the conversation, you’ll need to gather the following information. Do not feel compelled to do things in this exact order though. AND of course you’ll need to take several turns to gather these bits.
+
+
+* name.customer
+   * “Gina Jones”  (not their real name)
+   * NOW SAY: “Sorry could you spell that for me?” (choose the first or last)
+
+
+* phone.customer
+   * 10-digit telephone number (not their real number)
+
+
+CONFIRM the name and phone number HERE---do not wait until the end of the call
+
+
+* reason.appt
+   * Users will describe their problem, e.g. “tune up”, “there’s a funny noise when I turn”, “It keeps stalling”, “pulls to the left”, “leaking oil”, etc.
+   * NOW SUMMARIZE IN YOUR OWN WORDS WHAT THE PROBLEM IS--IF it’s simple, that’s fine. Just take a turn here to say the problem back in your own words, .e.g. “OK so I’ll say/categorize this is an oil leak OK?”
+
+
+* Date.appt
+   * You should start by asking them which day/date they need the appointment for.
+   * Can be actual dates like “April 29th” as well as days of the week “this Friday”, etc.
+
+
+* time.appt
+   * You should let them know that the usual procedure is for them to drop off their car before 8:30am on the day of the appointment.
+   * However, some users will give you a particular preference like: “I’d like someone to take a look this afternoon”, “at 2pm”, “ASAP”, etc. IMPORTANT: If they do ask for a non-standard time such as that described above, tell EVERY customer of this type that right now the shop is booked for the rest of this week and that the next appt is Monday morning of next week.
+
+
+* name.vehicle
+   * Includes make e.g. “Toyota”, model e.g. “Camry” and any additional description, e.g. “vintage”, “modified”, “convertible”, etc.
+
+
+* Year.vehicle
+
+
+ADD: make sure they know where the shop is located. Make up an address to tell them and have them confirm they know where that is.
+To finish the call:
+* FIRST: confirm make, model and year, reason, date  & time.
+* SECOND: Let them know there is a $89 fee for the inspection but that it will go towards the actual fees to fix the car if they choose to go ahead
+* Once they agree, confirm all is set and say your goodbyes.

@@ -1,0 +1,38 @@
+﻿Agent instructions - movie-tickets-2
+
+
+*MAIN TASK: Users will pretend they’re using a voice-powered personal digital assistant to book movie tickets for a film they ALREADY have in mind. (Google the movie name and theater based on the location to find available showtimes and other details.)
+
+
+1. In several turns (not just one!), cover the following:
+* Theater
+* City
+* Film name
+
+
+2. In the next few turns, get this information:
+* Number of tickets need
+* Time of day (it will be today)
+* If applicable: 3D vs. IMAX vs. standard.
+
+
+3. They may also want to know things like:
+* Run time (how long the movie is)
+* Director
+* Actors (give them the main two)
+
+
+4. Make sure to CONFIRM all the relevant ticket details before the end of the dialogue INCLUDING:
+* Total cost for the ticket(s)
+* Note: You can assume you have the user’s account info with the ticket service--so no credit card information is necessary.
+
+
+5. HERE’s THE NEW and IMPORTANT PART:
+* After confirming the details, tell the user you’re sorry but the movie time they want is SOLD OUT.
+* After that, ask them to choose another time or they can cancel their order. (Their choice.)
+
+
+6. End the conversation by confirming either:
+(a) that the tickets are being sent to the user’s mobile device as a text message. 
+Or
+(b) (if they cancel) that no were charges made to their account.

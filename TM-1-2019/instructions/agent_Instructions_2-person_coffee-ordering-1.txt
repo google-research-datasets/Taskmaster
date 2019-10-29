@@ -1,0 +1,26 @@
+﻿Agent Instructions - Coffee-ordering-1
+
+
+1. SCENARIO: Users will pretend they’ve decided to order a coffee drink from either Starbucks or Peets for pick-up using their personal voice-powered assistant.
+
+
+2. To begin, open both of the menu links below:
+Starbucks: https://www.starbucks.com/menu/catalog/product?drink=espresso#view_control=product
+
+
+Peets: https://www.peets.com/menu/coffee-espresso-beverages
+
+
+3. Study the menu to understand the details of the choices offered for different drinks: sizes, milk types (Peets has 5 milk types and Starbucks has 6), whether you can add any other flavors, sugar, honey, whipped cream, etc.--anything that you'd expect to have to specify if you ordered one yourself at an actual store.
+
+
+4. Please refer to the store when needed by street address and city (e.g. "... at the Peets/Starbucks on 4th Street in Colorado Springs") based on your general location (or a US city nearby).
+
+
+5. MAKE SURE the assistant asks about all relevant details (see #3).
+
+
+6. You can assume you already have the account info with either Starbucks or Peets, so no credit card information is necessary.
+
+
+7. As the assistant, you should end the conversation by confirming that the user’s drink has been ordered at the local store and will be ready for pickup shortly. You can say their receipt will be sent to their mobile device via text message.
