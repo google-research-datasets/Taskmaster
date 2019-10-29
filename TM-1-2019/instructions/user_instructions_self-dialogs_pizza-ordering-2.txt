@@ -1,0 +1,38 @@
+﻿User instructions (self-dialogs) - pizza-ordering-2
+
+
+READ ALL THE INSTRUCTIONS BEFORE YOU BEGIN.
+
+
+1. To begin, think of one of your favorite pizza places and think about the types of pizzas you like to order.
+
+
+2. Make sure you study their menu to confirm the details of the choices offered like: toppings, sizes, prices, specialty pizzas, etc.  IF YOU'VE DONE THIS BEFORE, CREATE A NEW STORY/VERSION.
+
+
+3. The pizza should have at least two toppings OR it can be a "specialty pizza" (like "Chicken BBQ" or whatever).
+
+
+4.  MAKE SURE the assistant asks about all relevant details (see #3). And don't order other items--just the pizza.
+
+
+5. IMPORTANT STEP: Once the customer's choices for the pizza are made, the assistant should respond that one or more of their choices are currently not available (e.g. maybe toppings are out or a specialty pizza is not currently available).
+
+
+6. So, the customer needs to change the order to something that IS available, which the assistant will then confirm.
+
+
+7. You can assume you already have an account with this business which your assistant knows, so no credit card information is necessary.
+
+
+8. Make sure the assistant confirms all of the details of the order.
+
+
+9. To end the conversation the assistant will tell you that your pizza order is complete and the pizzas will be ready for pickup in about 25 minutes.
+
+
+10. Payment: Your assistant can tell you that your receipt will be sent to your mobile device via text message.
+11. DO NOT GIVE ANY PERSONAL INFORMATION: no phone numbers or addresses, names, etc. If you want to include this type of info, make it up
+
+
+YOUR TASK: Write the conversation that results between you and your assistant. It must be at least 10 turns long (for both you and the assistant).  Below we have provided 15 turns in case you need more. KEEP IT NEW AND FRESH! DON'T REPEAT DIALOGUES FROM THE PAST!

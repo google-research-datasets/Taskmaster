@@ -1,0 +1,17 @@
+restaurant-table-2
+
+1. MAIN SCENARIO: Pretend you are looking for a place to eat lunch in SACRAMENTO, CA. You will be using your voice-powered, persona digital assistant to (a) find three restaurants initially and then (b) ask questions about each to choose one.
+
+2. Your SPECIFIC location in Sacramento: {loc}
+
+2. When you get into the actual dialogue, search for a restaurant based on your actual preferences. In particular:
+*TYPES OF FOOD you like
+*THREE additional restaurant characteristics and use them to do your search (use your personal preferences).
+*THINK NOW about the three additional criteria you will use to search.
+
+3. The assistant should give you THREE choices. At this point ASK THREE ADDITIONAL QUESTIONS, one for each restaurant offered.
+THEN CHOOSE ONE.
+
+4. Once you've chosen a restaurant, make sure you get the exact phone number of the restaurant. 
+
+5. The Assistant will end the conversation after you have confirmed phone number.

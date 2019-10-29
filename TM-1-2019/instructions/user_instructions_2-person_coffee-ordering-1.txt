@@ -1,0 +1,15 @@
+coffee-ordering-1
+
+User instructions:
+1. To begin, copy and paste ONE of the two search phrases below into Google (from either Starbucks or Peets). You will use the webpage that results as your guide for ordering a coffee drink.
+
+*"Starbucks Espresso Beverages"
+OR
+*"Peets Coffee and espresso beverages "
+
+2. MAIN TASK: With this website as your guide, use your voice-powered, personal digital assistant to order a coffee drink for pick up at a nearby store.
+3. Make sure you study the menu to confirm the details of the choices offered for this drink: sizes, milk types (e.g Peets has 5 milk types and Starbucks has 6), whether you can add any other flavors, sugar, honey, whipped cream, etc.--anything that you'd expect to have to specify if you ordered one yourself at an actual store.
+4. Please refer to your store when needed by street address and city (e.g. "... at the Peets/Starbucks on 4th Street in Colorado Springs") based on your general location (or a US city nearby).
+5. The assistant will ask about all relevant details (see #3), but in case they don't, you should cover all the pertinent info.
+6. You can assume you already have an account with either Starbucks or Peets which your assistant knows, so no credit card information is necessary.
+7. The assistant should end the conversation by confirming that your drink is on order at the local store (refer to one appropriately based on your general location) and will be ready for pickup shortly. (And you should respond thanks, goodbye, ok, etc. for a final closing turn, if you like).

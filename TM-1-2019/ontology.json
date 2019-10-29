@@ -1,0 +1,46 @@
+{
+  "uber": {
+    "id": "uber_lyft",
+    "vertical": "ride_booking",
+    "required": ["location.from", "location.to", "type.ride", "num.people"],
+    "optional": ["price.estimate", "duration.estimate", "time.pickup", "time.dropoff"]
+  },
+  "movie": {
+    "id": "movie_ticket",
+    "vertical": "ticket_booking",
+    "required": [
+      "name.movie",
+      "name.theater",
+      "num.tickets",
+      "time.start",
+      "location.theater",
+      "price.ticket"
+    ],
+    "optional": ["type.screening", "time.end", "time.duration"]
+  },
+  "restaurant": {
+    "id": "restaurant_reservation",
+    "vertical": "reservation",
+    "required": ["name.restaurant", "name.reservation", "num.guests",
+      "time.reservation"],
+    "optional": ["type.seating", "location.restaurant"]
+  },
+  "coffee": {
+    "id": "coffee_ordering",
+    "vertical": "coffee_order",
+    "required": ["location.store", "name.drink", "size.drink"],
+    "optional": ["num.drink", "type.milk", "preference"]
+  },
+  "pizza": {
+    "id": "pizza_ordering",
+    "vertical": "pizza_order",
+    "required": ["name.store", "name.pizza", "size.pizza"],
+    "optional": ["type.topping", "type.crust", "preference", "location.store"]
+  },
+  "auto": {
+    "id": "auto_repair",
+    "vertical": "appointment",
+    "required": ["name.store", "name.customer", "date.appt", "time.appt"],
+    "optional": ["reason.appt", "name.vehicle", "year.vehicle", "location.store"]
+  }
+}

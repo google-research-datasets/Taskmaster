@@ -1,0 +1,31 @@
+User instructions (self-dialogs) - uber-lyft-1
+
+
+
+1. To begin, go to the fare estimate link below for either Lyft or Uber (whichever you are more familiar with):
+Lyft: https://www.lyft.com/rider
+Uber: https://www.uber.com/fare-estimate/
+
+
+2. Pretend you've decided to order a car for a ride inside a city you are familiar with but..... PLEASE CHOOSE CITY THAT IS NOT WHERE YOU LIVE OR WORK. DO NOT ENTER ANY PERSONAL HOME OR WORK ADDRESSES for you or anyone you know. 
+
+
+3. In the fare estimator, enter the addresses of the two locations you will use for this exercise. Below we've listed common ride scenarios you can use to help.
+
+
+- from a movie theater to a restaurant on the other side of town (or vice versa)
+- from a restaurant to a residence (or vice versa)
+- from a shopping mall to another shopping mall
+- from a bar to a residence (or vice versa)
+- from a sports venue to a restaurant (or vice versa)
+- from the airport to a residence (or vice versa)
+
+
+4. Make sure you study the types of rides and fares available for the trip you're estimating. For example, Uber has UberX, Uber XL, Uber Select, Uber Black, and Pool. Lyft has regular, Shared, XL, Lux, Lux Black, Lux Black XL.
+5. MAIN TASK: Pretend you call your personal assistant on the phone to have them order a car for you. 
+6. MAKE SURE the assistant asks about all relevant details (from where to where, estimated fare(s), types of rides if needed, etc.).
+7. You can assume you already have an account with the company which your assistant knows, and the ride details will show up in your own mobile phone app when they have booked it.
+8. The assistant should end the conversation by confirming that your ride is on the way and that you can check status on your phone.
+
+
+YOUR TASK: Write the conversation that results between you and your assistant. It must be at least 10 turns long (for both you and the assistant).  Below we have provided 15 turns in case you need more. KEEP IT NEW AND FRESH! DON'T REPEAT DIALOGUES FROM THE PAST!

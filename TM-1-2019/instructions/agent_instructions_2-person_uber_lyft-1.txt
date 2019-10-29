@@ -1,0 +1,35 @@
+﻿Agent instructions - uber/lyft-1
+
+
+1. THE SCENARIO: Users will pretend they need to order a car for a ride inside a city. 
+
+
+2. To begin, make sure you have the fare estimate pages below open for both Lyft and Uber (the users will choose the one they want to use):
+* Lyft: https://www.lyft.com/rider
+* Uber: https://www.uber.com/fare-estimate/
+* Make sure you know the types of rides and fares available for the trip you're estimating. For example, Uber has UberX, Uber XL, Uber Select, Uber Black, and Pool. Lyft has regular, Shared, XL, Lux, Lux Black, Lux Black XL.
+
+
+3. THE CONVERSATION:
+1. Start with a general “hello, how can I help?” statement (you may change this up as you go).
+2. Figure out the “to” and “from” locations for the trip. Sometimes the user will volunteer this info and other times you will have to ask for it.
+3. Enter the addresses of the two locations in one of the two pages (above) to be able to give information about:
+   1. fare estimates
+   2. ride types, e.g. UberX vs. Pool vs. others (or the Lyft counterparts) as well as the number of people that fit in each car type.
+   3. trip duration (how long it will take to get from A to B.
+   4. driver ETA (when the driver will arrive)
+1. Below are common ride scenarios users might choose for their trips:
+- from a movie theater to a restaurant on the other side of town (or vice versa)
+- from a restaurant to a residence (or vice versa)
+- from a shopping mall to another shopping mall
+- from a bar to a residence (or vice versa)
+- from a sports venue to a restaurant (or vice versa)
+- from the airport to a residence (or vice versa)
+
+
+4. IMPORTANT: If the number of passengers does NOT fit the car preference type (e.g. UberX can only take 4 passengers), you MUST tell the user this and help them book something that works for their party size.
+ 
+5. When you are ready to “book the ride” you can assume you have access to the user’s uber or lyft account so no payment information is required.
+
+
+6. As the digital assistant, you should end the conversation by confirming that the user’s ride is on the way and that they can check status on their mobile device.

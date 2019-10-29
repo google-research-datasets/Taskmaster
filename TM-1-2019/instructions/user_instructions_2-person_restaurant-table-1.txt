@@ -1,0 +1,14 @@
+restuarant-table-1
+
+1. MAIN SCENARIO: Pretend you are looking for a nice, sit-down restaurant for dinner in SAN FRANCISCO, CALIFORNIA. You will be using your voice-powered, persona digital assistant to (a) find a restaurant and (b) make a table reservation.
+
+2. When you get into the actual dialogue, the search for a restaurant based on your actual preferences. In particular:
+TYPES OF FOOD you like
+THREE additional restaurant characteristics and use them to do your search
+
+3. The assistant should give you two choices. At this point ASK TWO ADDITIONAL QUESTIONS, one for each restaurant offered.
+THEN CHOOSE ONE.
+
+4. Once you've chosen a restaurant, ask to book a reservation. For the table booking, you will need to cover day/date, time, number of people, type of table if offered (outdoor/indoor, booth/table, bar, etc.) If the choice is not available, change one of your criteria.
+
+5. The Assistant will end the conversation after you have confirmed the details of the reservation.
