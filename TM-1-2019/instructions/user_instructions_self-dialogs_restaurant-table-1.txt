@@ -1,0 +1,19 @@
+﻿User instructions (self-dialogs) - restaurant-table-1
+
+
+1. To begin, think of 2 restaurants you know of that require reservations for dinner. You will use these in the dialogue you write.  IF YOU'VE DONE THIS BEFORE, CREATE A NEW STORY/VERSION.
+
+
+2. There will be two parts to your conversation: First you need to find a restaurant for dinner AND THEN book a table for the one you choose. You can use any US city for your location (for this exercise, the restaurants don't have to be located where they are in reality.)
+
+
+3. When you write the restaurant search part, make it sound like you're choosing based on your actual preferences  (i.e. think about what's important to you when you make a reservation for a nice dinner). So the turns will involve you asking the assistant about various features of the restaurant.
+
+
+4. Once you've chosen a restaurant, you'll ask to book a table. For this part, make sure you include the following slots: day/date, time, number of people, type of table if offered (outdoor/indoor, booth/table, bar, etc.)
+
+
+5. IMPORTANT: Make sure the FIRST response from the assistant on the table booking is that some part of your request is not available (either the time in't available or there no tables for the number of people at that time, or the seating choice is not available or offered, etc.). You will then work out a time or table choice that works for you.
+
+
+YOUR TASK: Write the conversation that results between you and your assistant. It must be at least 10 turns long (for both you and the assistant).  Below we have provided 15 turns in case you need more. KEEP IT NEW AND FRESH! DON'T REPEAT DIALOGUES FROM THE PAST!

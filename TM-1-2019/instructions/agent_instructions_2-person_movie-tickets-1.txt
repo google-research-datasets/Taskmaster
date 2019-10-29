@@ -1,0 +1,30 @@
+﻿Agent instructions - movie-tickets-1
+
+
+*MAIN TASK: Users will pretend they’re using a voice-powered personal digital assistant to book movie tickets for a film they ALREADY have in mind.
+
+
+1. In several turns (not just one!), cover the following:
+* Film name
+* Number of people
+* City
+* Theater
+* Time
+* If applicable: 3D vs. IMAX vs. standard.
+
+
+2. They may also want to know things like:
+* Run time
+* End time
+* Director, actors, etc.
+
+
+3. Make sure to CONFIRM all the relevant ticket details before the end of the dialogue INCLUDING:
+* Total cost for two tickets
+* Time, location, theater
+
+
+4. You can assume you have the user’s account info with the ticket service--so no credit card information is necessary.
+
+
+6. After confirming the details, end the conversation by confirming that the tickets are being sent to the user’s mobile device as a text message.

@@ -1,0 +1,34 @@
+﻿User instructions (self-dialogs) - movie-tickets-3
+
+
+NEW TASK AGAIN!---PLEASE READ ALL THE INSTRUCTIONS CAREFULLY
+
+
+1. Think of TWO particular movies you'd like to see PLAYING NOW in theaters. (Use the internet to find them if necessary.)
+
+
+2. Choose a DIFFERENT CITY from where you live, work, or happen to be at the moment.
+
+
+3. Pretend you've decided to see one of these movies tonight and you're taking a friend.
+
+
+4. To prepare, use the internet to look up the details of the city, the theater name, showtimes offered, ticket prices, and any additional options like 3D, etc.
+
+
+5. Start the conversation by trying to buy two tickets for one of the movies giving details for city, theater name, showtime,  any additional options like 3D, etc.
+
+
+6. Now the assistant should respond by telling the customer that one or more of the choices for that movie are not available (but the assistant needs to be specific about which).
+
+
+7. In response to this, the customer changes to a different movie, again giving the same details for city, theater name, showtime,  any additional options like 3D, etc.
+
+
+8. Once again, the assistant should respond by telling the customer that one or more of the choices for that movie are not available (but the assistant needs to be specific about which).
+
+
+9. At this point, the customer will decide they have changed their mind and that they no longer are interested in buying movie tickets.
+
+
+YOUR TASK: Write the conversation that results between you and your assistant. It must be at least 10 turns long (for both you and the assistant).  Below we have provided 15 turns in case you need more. KEEP IT NEW AND FRESH! DON'T REPEAT DIALOGUES FROM THE PAST!

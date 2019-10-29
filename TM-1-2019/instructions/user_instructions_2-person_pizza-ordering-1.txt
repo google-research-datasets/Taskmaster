@@ -1,0 +1,15 @@
+pizza-ordering-1
+
+User instructions:
+1. To begin, think about the kinds of pizza you like to eat in real life. Think about your ideal toppings, sizes, preferences.
+
+2. MAIN TASK: With these ideas in mind, use your voice-powered, personal digital assistant to make a pizza order from a new pizzeria called "Bella Luna".
+3. You will need to specify the following:
+* Number of pizzas: {number}
+* Size (for all pizzas): {size}
+* Toppings or pizza type: THINK OF EITHER A SET OF TOPPINGS or a "SPECIALTY PIZZA" (e.g. names like "chicken bbq" or "veggie lovers", "meat lovers" -- use your imagination and experience.)
+* Special instructions: {special}
+
+4. The assistant will ask about all relevant details (see #3), but in case they don't, you should cover all the pertinent info yourself. (DO NOT SKIP THIS STEP!)
+5. You can assume you already have an account with Bella Luna Pizzeria online which your assistant knows, so no credit card information is necessary.
+6. The assistant should end the conversation by confirming BOTH the total price AND that your pizza(s) are on order at the local Bella Luna pizzeria and will be ready for pickup shortly. (And you should respond thanks, goodbye, ok, etc. for a final closing turn, if you like).

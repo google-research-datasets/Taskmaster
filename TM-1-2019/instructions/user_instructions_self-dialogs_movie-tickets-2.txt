@@ -1,0 +1,35 @@
+﻿User instructions (self-dialogs) - movies-tickets-2
+
+
+THIS IS A NEW TASK---PLEASE READ ALL THE INSTRUCTIONS CAREFULLY
+
+
+1. Think of a particular movie PLAYING NOW in theaters that you'd like to see. (Use the internet to find one if necessary.)
+
+
+2. Choose a DIFFERENT CITY from where you live, work, or happen to be at the moment.
+
+
+3. Pretend you've decided to see this movie tonight and you're taking a friend.
+
+
+4. Use the internet to look up the details of the city, the theater name, showtimes offered, ticket prices, and any additional options like 3D, etc.
+
+
+5. MAIN TASK: Pretend you call your personal assistant on the phone who will book the ticket for you.  HOWEVER, this dialogue should include turns where you have to settle for a SECOND choice on TWO of the details for the movie. In other words, TWO of the things in (4) above are either not available or don't fit what you want, so you ask for alternatives for those particular details.
+
+
+>>You will create the conversation that would happen between you and your assistant in order to buy two tickets. 
+
+
+6. MAKE SURE the assistant asks about all relevant details (see #4) INCLUDING the number of tickets needed.
+>>BUT REMEMBER, the assistant will end up having to give you alternatives for a couple of the details (you choose whether it's the time, the location, the type of movie technology, etc.).
+
+
+7. You can assume you already have an account with the ticket service--so no credit card information is necessary.
+
+
+8. The assistant should end the conversation by confirming that the tickets are being sent to your mobile device as a text message. (And you can respond thanks, goodbye, ok, etc. for a final closing turn, if you like).
+
+
+YOUR TASK: Write the conversation that results between you and your assistant. It must be at least 10 turns long (for both you and the assistant).  Below we have provided 15 turns in case you need more. KEEP IT NEW AND FRESH! DON'T REPEAT DIALOGUES FROM THE PAST!

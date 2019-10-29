@@ -1,0 +1,14 @@
+User instructions (self-dialogs) - movie-tickets-1
+
+
+1. Think of a particular movie PLAYING NOW in theaters that you'd like to see. (Use the internet to find one if necessary.)
+2. Choose a DIFFERENT CITY from where you live, work, or happen to be at the moment.
+3. Pretend you've decided to see this movie tonight and you're taking a friend.
+4. Use the internet to look up the details of the city, the theater name, showtimes offered, ticket prices, and any additional options like 3D, etc.
+5. MAIN TASK: Pretend you call your personal assistant on the phone who will book the ticket for you.  Write the conversation that would happen between you and your assistant in order to buy two tickets. 
+6. MAKE SURE the assistant asks about all relevant details (see #4) INCLUDING the number of tickets needed. BUT you should choose the order that makes sense to you as far what details to ask (theater, times, etc)
+7. You can assume you already have an account with the ticket service--so no credit card information is necessary.
+8. The assistant should end the conversation by confirming that the tickets are being sent to your mobile device as a text message. (And you can respond thanks, goodbye, ok, etc. for a final closing turn, if you like).
+
+
+YOUR TASK: Write the conversation that results between you and your assistant. It must be at least 10 turns long (for both you and the assistant).  Below we have provided 15 turns in case you need more. KEEP IT NEW AND FRESH! DON'T REPEAT DIALOGUES FROM THE PAST!

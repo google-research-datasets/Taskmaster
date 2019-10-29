@@ -1,0 +1,25 @@
+﻿User instructions (self -dialogs) -  auto-repair-appt-1
+
+
+1. In this conversation you're going to pretend you need to take your car to the mechanic, so you need to get an appointment scheduled. IF YOU'VE DONE THIS BEFORE, CREATE A NEW STORY/VERSION.
+
+
+2.MAIN TASK: Since you're busy driving,pretend you call your personal assistant on the phone and ask them to book the appointment for you at an auto repair shop called "Intelligent Auto Solutions". (They have real time access using the auto repair shop's online interface, so you can get answers for choices in real time with your assistant.)
+
+
+3. Your car: Make sure you include the make, model and year.  
+
+
+4. In addition to the car, you need to give a name and phone number. DO NOT USE YOUR REAL NAME AND PHONE NUMBER UNDER ANY CIRCUMSTANCES!!!
+
+
+5. Describe the  reason for your appointment IN YOUR OWN WORDS. Use something from your own life's experiences. for example: tune up, there is a noise when you turn, keeps stalling at long traffic lights, it pulls to the left, leaking oil, several lights are out, etc.
+
+
+6. As far as the day and time are concerned, most car places want you to bring it in the following morning (or a later day) before a certain time. HOWEVER, you should make it more urgent and have a turn or two where your assistant tells you whether your preferred time is available or whether you need to change it. (Again, assume the assistant is able to see the results in real time, via an online interface.)
+
+
+7. The assistant should end the conversation by confirming BOTH the details you gave, the appointment time, as well as the fee for the initial inspection.
+
+
+YOUR TASK: Write the conversation that results between you and your assistant. It must be at least 10 turns long (for both you and the assistant).  Below we have provided 15 turns in case you need more. KEEP IT NEW AND FRESH! DON'T REPEAT DIALOGUES FROM THE PAST!

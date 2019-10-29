@@ -1,0 +1,11 @@
+Basic information about your task: Have a conversation about the kinds of restaurants or eateries you like and don't like and why.
+
+-In this conversation, let the ASSISTANT guide you through some questions to help you sort out what you like and don't like as far as restaurants go.
+
+-The idea here is for you to have a MEANINGFUL conversation about your restaurant preferences.
+
+-Remember to let the assistant prompt you with ways to get at your preferences and also what you don't like.
+
+-You will be asked to narrow things down and explain your likes and dislikes.
+
+-DO NOT end the conversation early.
