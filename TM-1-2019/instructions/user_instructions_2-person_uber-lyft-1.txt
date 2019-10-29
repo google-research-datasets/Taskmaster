@@ -1,0 +1,27 @@
+uber-lyft-1
+
+User instructions:
+1. Pretend you've decided to order a LYFT or UBER (you choose) for a ride inside a city you are familiar with but..... PLEASE CHOOSE CITY THAT IS NOT WHERE YOU LIVE OR WORK. DO NOT ENTER ANY PERSONAL HOME OR WORK ADDRESSES for you or anyone you know.
+
+2. MAIN TASK: You will use your voice-powered personal digital assistant to help you (a) figure out the cost, (b) decide which type of car (there are various levels of service) and (c) order the car.
+
+3. Use a common scenario for your conversation such as those below (you can pretend one of these is your situation but be specific as to the exact locations)
+
+- from a movie theater to a restaurant on the other side of town (or vice versa)
+- from a restaurant to a residence (or vice versa)
+- from a shopping mall to another shopping mall
+- from a bar to a residence (or vice versa)
+- from a sports venue to a restaurant (or vice versa)
+- from the airport to a residence (or vice versa)
+
+4. HERE ARE YOUR SPECIFIC NEEDS. (If the car type does not match your needs, the assistant will tell you and help you choose:
+
+Number of people in your party: {num}
+Preference for ride type: {type}
+When you need to be picked up: {time}
+
+5. MAKE SURE you confirm: (a) the ride type, (b) the fare estimate, (c) your driver's ETA, (d) the estimated duration of the trip
+
+6. You can assume you already have an account with the company which your assistant knows, and the ride details will show up in your own mobile phone app when they have booked it.
+
+7. The assistant should end the conversation by confirming that your ride is on the way and that you can check status on your phone.

@@ -1,0 +1,38 @@
+﻿Agent instructions - restaurant-table-1
+
+
+
+
+1. THE SCENARIO: Users will pretend they are searching for a restaurant in SAN FRANCISCO.
+
+
+2. There will be two parts to the conversation:
+1. First the user will search for a restaurant for dinner.
+2. They’ll book a table for the one they choose.
+
+
+3. When you get into the actual dialogue, the users will be searching for a restaurant based on their actual preferences. In particular:
+* TYPES OF FOOD they like
+* THREE additional restaurant characteristics and use them to do your search
+
+
+>> Make sure they give you these three additional criteria. (If they don’t ask “OK what other types of things are you looking for?” or things like that.)
+
+
+4. You need to give them with TWO choices. Use GOOGLE for all your searches. (not yelp or other external sites)
+
+
+>> MAKE SURE the user asks ONE additional question about EACH choice you offered before choosing one!
+
+
+5. Once they’ve chosen a restaurant, they will ask to book a table. For the table booking, make sure to cover the following criteria:
+* day/date
+* Time
+* number of people
+* type of table if offered (outdoor/indoor, booth/table, bar, etc.)
+
+
+6. IMPORTANT: For every OTHER session you have, pretend the first choice for the reservation is NOT available (either due to time, number of people, etc). Have them change the criteria and then you can confirm the new table.
+
+
+7. You can end the dialogue once they have confirmed the details of the reservation are correct.

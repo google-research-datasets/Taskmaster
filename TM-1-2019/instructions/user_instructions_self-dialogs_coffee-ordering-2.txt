@@ -1,0 +1,33 @@
+﻿User instructions (self-dialogs) - coffee-ordering-2
+
+
+THIS IS A NEW TASK WHERE THE CONVERSATION INCLUDES CHANGES TO THE DRINK after the initial options have been requested. READ ALL THE INSTRUCTIONS BEFORE BEGINNING.
+
+
+1. To begin, choose one of the two menu links below from either Starbucks or Peets:
+Starbucks: https://www.starbucks.com/menu/catalog/product?drink=espresso#view_control=product
+Peets: https://www.peets.com/menu/coffee-espresso-beverages
+
+
+2. Pretend you've decided to order one of the coffee drinks from either link for pick up. (Try to make it realistically one you'd like.)
+
+
+3. Make sure you study the menu to confirm the details of the choices offered for this drink: sizes, milk types (Peets has 5 milk types and Starbucks has 6), whether you can add any other flavors, sugar, honey, whipped cream, etc.--anything that you'd expect to have to specify if you ordered one yourself at an actual store.
+
+
+4. MAIN TASK: Pretend you call your personal assistant on the phone to have them will order the drink for you at a nearby store. 
+
+
+5. MAKE SURE the assistant asks about all relevant details (see #3).
+
+
+6. NEW PART: AFTER you have given all your preferred options for the drink, the assistant should respond that it's not available (that is, either there is no more of that drink type or that an option for the drink (as in #3) is not available. The customer should EITHER choose a new drink type or modify the options to something that IS available.
+
+
+7. You can assume you already have an account with either Starbucks or Peets which your assistant knows, so no credit card information is necessary.
+
+
+8. The assistant should end the conversation by confirming that your drink is on order at the local store (refer to one appropriately based on your general location) and will be ready for pickup shortly and that your receipt will be sent to your mobile device via text message. (And you can respond thanks, goodbye, ok, etc. for a final closing turn, if you like).
+
+
+YOUR TASK: Write the conversation that results between you and your assistant. It must be at least 10 turns long (for both you and the assistant).  Below we have provided 15 turns in case you need more. KEEP IT NEW AND FRESH! DON'T REPEAT DIALOGUES FROM THE PAST!

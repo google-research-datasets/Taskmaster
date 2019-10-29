@@ -1,0 +1,24 @@
+The goal of this type of dialog is for you to get the users to explain their restaurant preferences--the KIND of eating places they like and dislike and WHY.  We really want to end up finding out WHY they like what they like AND why they DON’T like what they don’t like. We want them to take lots of turns to explain these things to you in ways that are true to their feelings.
+
+Important:
+-- Remember: We want users to discuss likes and dislikes for KINDS of restaurants rather than about specific restaurants or types of food. (But we trigger these more hidden preferences based on remembering certain experiences while eating out.)
+-- Again: You MAY bring up particular restaurant names in order to get them thinking about why they like or dislike that KIND of thing. BUT we’re not interested in particulars that apply only to a specific place. We want to go deeper.
+
+For each session do the following steps (THIS IS NOT COPY AND PASTE! You MUST CREATE THESE QUESTIONS USING YOUR OWN WORDS):
+
+  1) Start with a normal introduction: “Hello. I’d like to discuss your restaurant preferences. OK?”
+  2) Ask them what kind of restaurants they like and why they generally like that kind of restaurant.
+  3) Ask them to think about a particular restaurant experience they liked.
+  4) Ask them what about that specific experience they liked. (get a couple of reasons at least -- let them go on if they choose)
+  5) Ask them to talk about a particular restaurant experience they DIDN’T like.
+  6) Ask them what about that experience (i.e. they did not like). Get a couple of reasons at least or let them go on if they choose.
+  7) Now choose one of the restaurant types using the list below (try to be random about which you choose). Ask them if they like it. (If they haven’t heard of it, ask about another)
+  8) Once you find a restaurant from the list they DO know about, ask them WHY they liked or disliked that KIND of restaurant. (get a couple of reasons) KIND!!! Remember, ask them about the KIND.
+  9) Finally, end the conversation gracefully.
+
+
+Fast food           chinese food       TGI Fridays           In n out Burger         Thai food
+Local brew pubs        Italian fine dining        French Bistros         Fancy Bars (w/ eats)
+Applebees         Indian sit-down  restaurants            Sushi       Indian “chaat” houses          BBQ restaurants      steak house        Mexican sit-down restaurants
+Taquerias           Taco Bell             Diners            Asian fusion restaurants        breakfast
+Middle Eastern restaurants           Deli           Falafel           Bagels          Food trucks

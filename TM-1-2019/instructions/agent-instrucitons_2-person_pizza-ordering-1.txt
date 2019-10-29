@@ -1,0 +1,28 @@
+﻿Agent Instructions - Pizza Ordering 1
+
+
+1. Users will base this task on their own pizza preferences like ideal toppings, sizes, specials, etc.
+
+
+2. MAIN TASK: With these ideas in mind, users will pretend to use their voice-powered, personal digital assistant to make a pizza order from a new pizzeria called "Bella Luna".
+
+
+3. You will need to get answers for the following:
+* Number of pizzas
+* Size (all pizzas will be the same size)
+* Toppings or pizza type: (e.g. names like "chicken bbq" or "veggie lovers", "meat lovers" -- use your imagination and experience.)
+* Special instructions: They will have crust preferences or extra cheese, etc.
+
+
+4. As the assistant, please CONFIRM all relevant details from (3) above before moving ahead.
+
+
+5. You can assume users already have an account with Bella Luna Pizzeria online which the assistant knows, so no credit card information is necessary.
+
+
+6. The assistant should end the conversation by confirming the total price charged to the user’s account:
+* assume pizzas are small =  12.99, Med =  18.99, large = 23.99
+* you can make up a rough total number for the final price that includes “tax and ordering fee” if they ask.
+
+
+7. To end the call, tell the users that the pizza(s) are on order at the local Bella Luna pizzeria and will be ready for pickup shortly.

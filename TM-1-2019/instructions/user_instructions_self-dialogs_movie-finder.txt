@@ -1,0 +1,6 @@
+movie_finder
+
+User instructions:
+Pretend you're looking for a movie to see at home. You call your personal assistant on the phone to help. The assistant is good at both finding out what kinds of movies you like and recommending movies based on your responses.
+
+Write the conversation that results between you and your assistant. It must be at least 8 turns long.  Below we have provided 10 turns.

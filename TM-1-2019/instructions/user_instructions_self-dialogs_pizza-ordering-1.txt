@@ -1,0 +1,18 @@
+﻿User instructions (self-dialogs) - pizza-ordering-1
+
+
+1. To begin, think of one of your favorite pizza places and think about the types of pizzas you like to order.
+2. Make sure you study their menu to confirm the details of the choices offered like: toppings, sizes, prices, specialty pizzas, sides.  IF YOU'VE DONE THIS BEFORE, CREATE A NEW STORY/VERSION.
+3. The pizza should have at least two toppings. If it's a specialty pizza, ask if you can exchange one of the toppings for something else.(You must specify it, like "Instead of the x can I get y on that instead?")
+4. MAIN TASK: Pretend you call your personal assistant on the phone to have them order ONE pizza for you from this place. Write the conversation that would happen between you and your assistant in order to buy the pizza online. (Try to make the order realistic--like for a meal/event with you and your family or friends.)
+5. MAKE SURE the assistant asks about all relevant details (see #3).
+6. Don't order other items-just the pizza.
+7. You can assume you already have an account with this business which your assistant knows, so no credit card information is necessary.
+8. The assistant should confirm all of the details of the order.
+9. To end the conversation the assistant will tell you that your pizza order is complete and the pizzas will be ready for pickup in about 25 minutes.
+10. Payment: Your assistant can tell you that your receipt will be sent to your mobile device via text message.
+11. DO NOT GIVE ANY PERSONAL INFORMATION: no phone numbers or addresses, names, etc. If you want to include this type of info, make it up
+12. NOTE: IT doesn't hurt to include a turn or two where what you want isn't available or where your assistant has to correct you as to what things are called, sizes available, etc. This makes it more realistic!! :-)
+
+
+YOUR TASK: Write the conversation that results between you and your assistant. It must be at least 10 turns long (for both you and the assistant).  Below we have provided 15 turns in case you need more. KEEP IT NEW AND FRESH! DON'T REPEAT DIALOGUES FROM THE PAST!

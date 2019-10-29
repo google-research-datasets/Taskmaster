@@ -1,0 +1,25 @@
+auto-repair-appt-1
+
+User instructions:
+1. In this conversation you're going to pretend you need to take your car to the mechanic, so you need to get an appointment scheduled.
+
+2. MAIN TASK: Use your voice-powered, personal digital assistant to make an appointment at an auto repair shop called "Intelligent Auto Imports".
+
+3. Your car: {car}
+
+4. In addition to the car, you need to give a name and phone number. DO NOT USE YOUR REAL NAME AND PHONE NUMBER UNDER ANY CIRCUMSTANCES!!!
+
+5. Describe the following reason for your appointment in your own words: {reason}
+
+6. As far as the day and time are concerned, {date-time}
+
+7. The assistant should end the conversation by confirming BOTH the details you gave, the appointment time, as well as the fee for inspection.
+
+**************
+For each variable (listed in curly braces in the instructions above), one of the following values was randomly dispayed.
+
+car: 2010 Subaru Outback; 2011 Nissan Rogue; 2013 Honda Pilot; 2014 Acura RDX; 2015 Lexus RX 350; 2009 BMW 3 Series; 2008 Mercedes-Benz C-Class
+
+reason: tune up; there is a noise when you turn; keeps stalling at long traffic lights; it pulls to the left; leaking oil; several lights are out
+
+date-time: you want to come tomorrow; you want to come today at 3pm (pretend it is earlier than 3pm); you prefer next Friday; you do not have a preference; you would like to bring it in ASAP
