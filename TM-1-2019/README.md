@@ -27,9 +27,9 @@ __self-dialogs.json__ contains all the one-person dialogs.
 __woz-dialogs.json__ contains all the WOz dialogs.
 
 One-person dialogs can be divided into train/dev/test sets by matching the dialog IDs from the following files:
-* https://storage.cloud.google.com/dialog-data-corpus/TASKMASTER-1-2019/train-dev-test/train.csv
-* https://storage.cloud.google.com/dialog-data-corpus/TASKMASTER-1-2019/train-dev-test/dev.csv
-* https://storage.cloud.google.com/dialog-data-corpus/TASKMASTER-1-2019/train-dev-test/test.csv
+* [train.csv](train-dev-test/train.csv)
+* [dev.csv](train-dev-test/dev.csv)
+* [test.csv](train-dev-test/test.csv)
 
 Additionally, the following files are provided to describe the data structure and annotation schema.
 * __sample.json__  - A sample conversation describing the format of the data.
