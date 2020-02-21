@@ -1,0 +1,113 @@
+{
+  "sports": [{
+    "prefix": "epl",
+    "annotations": [
+      "name.team",
+      "record.team",
+      "record.games_ahead",
+      "record.games_back",
+      "place.team",
+      "result.match",
+      "score.match",
+      "date.match",
+      "day.match",
+      "time.match",
+      "name.player",
+      "position.player",
+      "record.player",
+      "name.non_player",
+      "venue",
+      "other_description.person",
+      "other_description.team",
+      "other_description.match"
+    ]
+  }, {
+    "prefix": "mlb",
+    "annotations": [
+      "name.team",
+      "record.team",
+      "record.games_ahead",
+      "record.games_back",
+      "place.team",
+      "result.match",
+      "score.match",
+      "date.match",
+      "day.match",
+      "time.match",
+      "name.player",
+      "position.player",
+      "record.player",
+      "name.non_player",
+      "venue",
+      "other_description.person",
+      "other_description.team",
+      "other_description.match"
+    ]
+  }, {
+    "prefix": "mls",
+    "annotations": [
+      "name.team",
+      "record.team",
+      "record.games_ahead",
+      "record.games_back",
+      "place.team",
+      "result.match",
+      "score.match",
+      "date.match",
+      "day.match",
+      "time.match",
+      "name.player",
+      "position.player",
+      "record.player",
+      "name.non_player",
+      "venue",
+      "other_description.person",
+      "other_description.team",
+      "other_description.match"
+    ]
+  }, {
+    "prefix": "nba",
+    "annotations": [
+      "name.team",
+      "record.team",
+      "record.games_ahead",
+      "record.games_back",
+      "place.team",
+      "result.match",
+      "score.match",
+      "date.match",
+      "day.match",
+      "time.match",
+      "name.player",
+      "position.player",
+      "record.player",
+      "name.non_player",
+      "venue",
+      "other_description.person",
+      "other_description.team",
+      "other_description.match"
+    ]
+  }, {
+    "prefix": "nfl",
+    "annotations": [
+      "name.team",
+      "record.team",
+      "record.games_ahead",
+      "record.games_back",
+      "place.team",
+      "result.match",
+      "score.match",
+      "date.match",
+      "day.match",
+      "time.match",
+      "name.player",
+      "position.player",
+      "record.player",
+      "name.non_player",
+      "venue",
+      "other_description.person",
+      "other_description.team",
+      "other_description.match"
+    ]
+  }]
+}

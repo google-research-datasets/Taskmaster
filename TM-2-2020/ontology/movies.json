@@ -1,0 +1,35 @@
+{
+  "movies": [{
+    "prefix": "movie_search",
+    "annotations": [
+      "name.movie",
+      "genre",
+      "name.theater",
+      "location.theater",
+      "time.start",
+      "time.end. ",
+      "price.ticket",
+      "type.screening",
+      "audience_rating",
+      "critic_rating",
+      "movie_rating",
+      "release_date",
+      "runtime",
+      "real_person",
+      "character",
+      "synopsis",
+      "streaming_service",
+      "other_description"
+    ]
+  }, {
+    "prefix": "movie_ticket",
+    "annotations": [
+      "name.movie",
+      "name.theater",
+      "num.tickets",
+      "time.start",
+      "type.screening",
+      "seating ticket_booking"
+    ]
+  }]
+}

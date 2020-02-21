@@ -1,0 +1,93 @@
+{
+  "hotels": [{
+    "prefix": "hotel_search",
+    "annotations": [
+      "name.hotel",
+      "location.hotel",
+      "sub_location.hotel",
+      "star_rating",
+      "customer_rating",
+      "price_range",
+      "amenity",
+      "num.beds",
+      "type.bed",
+      "num.rooms",
+      "check-in_date",
+      "check-out_date",
+      "date_range",
+      "num.guests",
+      "type.room",
+      "other_request"
+    ]
+  }, {
+    "prefix": "hotel1_detail",
+    "annotations": [
+      "name.hotel",
+      "star_rating",
+      "customer_rating",
+      "customer_review",
+      "price_per_night",
+      "total_fare",
+      "amenity",
+      "location",
+      "type.room",
+      "other_detail"
+    ]
+  }, {
+    "prefix": "hotel2_detail",
+    "annotations": [
+      "name.hotel",
+      "star_rating",
+      "customer_rating",
+      "customer_review",
+      "price_per_night",
+      "total_fare",
+      "amenity",
+      "location",
+      "type.room",
+      "other_detail"
+    ]
+  }, {
+    "prefix": "hotel3_detail",
+    "annotations": [
+      "name.hotel",
+      "star_rating",
+      "customer_rating",
+      "customer_review",
+      "price_per_night",
+      "total_fare",
+      "amenity",
+      "location",
+      "type.room",
+      "other_detail"
+    ]
+  }, {
+    "prefix": "hotel4_detail",
+    "annotations": [
+      "name.hotel",
+      "star_rating",
+      "customer_rating",
+      "customer_review",
+      "price_per_night",
+      "total_fare",
+      "amenity",
+      "location",
+      "type.room",
+      "other_detail"
+    ]
+  }, {
+    "prefix": "hotel5_detail",
+    "annotations": [
+      "name.hotel",
+      "star_rating",
+      "customer_rating",
+      "customer_review",
+      "price_per_night",
+      "total_fare",
+      "amenity",
+      "location",
+      "type.room",
+      "other_detail"
+    ]
+  }]
+}

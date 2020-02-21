@@ -1,0 +1,26 @@
+{
+  "restaurant_search": [{
+    "prefix": "restaurant",
+    "annotations": [
+      "name.restaurant",
+      "location",
+      "sub-location",
+      "type.food",
+      "menu_item",
+      "type.meal",
+      "rating ",
+      "price_range",
+      "business_hours",
+      "other_description"]
+  }, {
+    "prefix": "restaurant_reservation",
+    "annotations": [
+      "name.restaurant",
+      "name.reservation",
+      "num.guests",
+      "time.reservation",
+      "date.reservation",
+      "type.seating"
+    ]
+  }]
+}
