@@ -2,10 +2,10 @@
 
 This is the work of Bill Byrne, Karthik Krishnamoorthi, Saravanan Ganesh, Amit Dubey, Kyu-Young Kim and Andy Cedilnik from Google LLC, made available under the Creative Commons Attribution 4.0 License. A full copy of the license can be found at https://creativecommons.org/licenses/by/4.0/
 
-# DESCRIPTION OF DATA
+# DATA
 
 ## NUMBERS
-The Taskmaster-2 dataset consists of 17,289 dialogs in seven domains:
+The Taskmaster-2 dataset consists of 17,289 dialogs in the seven domains below. Dialogs for each domain can be found in the seven json files located in this directory's "data" folder, i.e. Taskmaster/TM-2-2-20/data/.
 * restaurants (3276)
 * food ordering (1050)
 * movies (3047)
@@ -13,6 +13,27 @@ The Taskmaster-2 dataset consists of 17,289 dialogs in seven domains:
 * flights (2481)
 * music (1602)
 * sports (3478)
+
+## STRUCTURE
+Each conversation in the data file has the following structure:
+* __conversation_id:__ A universally unique identifier with the prefix 'dlg-'. The ID has no meaning.
+* __utterances:__ An array of utterances that make up the conversation.
+* __instruction_id:__ A reference to the file(s) containing the user (and, if applicable, agent) instructions for this conversation.
+
+Each utterance has the following fields:
+* __index:__ A 0-based index indicating the order of the utterances in the conversation.
+* __speaker:__ Either USER or ASSISTANT, indicating which role generated this utterance.
+* __text:__ The raw text of the utterance. In case of self dialogs, this is written by the crowdsourced worker. In case of the WOz dialogs, 'ASSISTANT' turns are written and 'USER' turns are transcribed from the spoken recordings of crowdsourced workers.
+* __segments:__ An array of various text spans with semantic annotations.
+
+Each segment has the following fields:
+* __start_index:__ The position of the start of the annotation in the utterance text.
+* __end_index:__ The position of the end of the annotation in the utterance text.
+* __text:__ The raw text that has been annotated.
+* __annotations:__ An array of annotation details for this segment.
+
+Each annotation has a single field:
+* __name:__ The annotation name.
 
 ## COLLECTION METHODOLOGIES
 Unlike [Taskmaster-1](../TM-1-2019), Taskmaster-2 consists entirely of two-person, spoken conversations. In addition, while Taskmaster-1 is almost exclusively task-based, Taskmaster-2 contains a good number of search- and recommendation-oriented dialogs, as seen for example in the restaurants, flights, hotels, and movies verticals. The music browsing and sports conversations are almost exclusively search- and recommendation-based. 
@@ -30,5 +51,11 @@ As with Taskmaster-1, crowdsourced workers and agents alike were given instructi
 * **Music**: For the music domain, users were asked to browse (i.e. listen to) several tracks based on their choice of artist, track, album, or genre, and then comment on each one. To recommend tracks, agents were able to send users Youtube videos which they in turn could control once launched. The dialogs do not include when the links, however.
 * **Sports**: Sports dialogs are informational conversations discussing facts and stats about players, teams, games, etc. in the English Premiere League (EPL), Major Leage Baseball, Major League Soccer, National Basketball Association, and National Football League. Dialogs for each can be selected by the following prefixes: league epl, mlb, mls, nba, nfl.
   
+# ONTOLOGY
+Dialog annotations focus on basic variables for each domain. Unlike with Taskmaster-1, we do not indicate API calls or "accept/reject" of particular API parameters in transactional dialogs. Each conversation was annotated by two workers. Both annotations are included in this collection. The exact schema file used for each domain can be found in [the ontology folder](https://github.com/google-research-datasets/Taskmaster/tree/master/TM-2-2020/ontology).
 
+# TRANSCRIPTION NOTES
+As with Taskmaster-1, in a separate task, transcription of crowdsourced user utterances from these two-person dialogs were checked for errors but may still include an occasional typo, misspelling or ungrammatical sequence. In cases where a dialog failed to make sense, workers doing these corrections were given the freedom to insert or delete turns or replace entire phrases with language that made the dialog follow a more sensible path. Shorthand typing conventions originally used by the call center operators such as 'cuz', 'lol' and other non-standard English phrases were left as is. Disfluencies such as 'they um, they want Korean cuisine' were also usually transcribed as spoken, but sometimes transcribers corrected them.
+
+_Comments or questions? Join taskmaster-datasets@googlegroups.com to discuss._
 
