@@ -1,0 +1,23 @@
+{
+  "food_ordering": [{
+    "prefix": "food_order",
+    "annotations": [
+      "name.item",
+      "other_description.item",
+      "type.retrieval",
+      "name.person",
+      "total_price",
+      "time.pickup",
+      "num.people",
+      "name.restaurant",
+      "type.food",
+      "type.meal",
+      "location.restaurant",
+      "rating.restaurant",
+      "price_range",
+      "phone.restaurant",
+      "business_hours.restaurant",
+      "official_description.restaurant"
+    ]
+  }]
+}

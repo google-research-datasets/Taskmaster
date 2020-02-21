@@ -1,0 +1,91 @@
+{
+  "flights": [{
+    "prefix": "flight_search",
+    "annotations": [
+      "type",
+      "destination1",
+      "destination2",
+      "origin",
+      "date.depart",
+      "date.intermediate",
+      "date.return",
+      "time_of_day",
+      "seating_class",
+      "seat_location",
+      "stops",
+      "price_range",
+      "num.pax",
+      "luggage",
+      "total_fare",
+      "other_description"
+    ]
+  }, {
+    "prefix": "flight1_detail",
+    "annotations": [
+      "from",
+      "to",
+      "airline",
+      "flight_number",
+      "date",
+      "from.time",
+      "to.time",
+      "stops",
+      "stops.location",
+      "seating_class",
+      "seat_location",
+      "fare",
+      "other_description"
+    ]
+  }, {
+    "prefix": "flight2_detail",
+    "annotations": [
+      "from",
+      "to",
+      "airline",
+      "flight_number",
+      "date",
+      "from.time",
+      "to.time",
+      "stops",
+      "stops.location",
+      "seating_class",
+      "seat_location",
+      "fare",
+      "other_description"
+    ]
+  }, {
+    "prefix": "flight3_detail",
+    "annotations": [
+      "from",
+      "to",
+      "airline",
+      "flight_number",
+      "date",
+      "from.time",
+      "to.time",
+      "stops",
+      "stops.location",
+      "seating_class",
+      "seat_location",
+      "fare",
+      "other_description"
+    ]
+  }, {
+    "prefix": "flight4_detail",
+    "annotations": [
+      "from",
+      "to",
+      "airline",
+      "flight_number",
+      "date",
+      "from.time",
+      "to.time",
+      "stops",
+      "stops.location",
+      "seating_class",
+      "seat_location",
+      "fare",
+      "other_description"
+    ]
+  }]
+}

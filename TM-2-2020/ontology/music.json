@@ -1,0 +1,18 @@
+{
+  "music": [{
+    "prefix": "music",
+    "annotations": [
+      "name.track",
+      "name.artist",
+      "name.album",
+      "name.genre",
+      "type.music",
+      "describes_track",
+      "describes_artist",
+      "describes_album",
+      "describes_genre",
+      "describes_type.music",
+      "technical_difficulty"
+    ]
+  }]
+}
