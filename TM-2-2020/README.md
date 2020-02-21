@@ -23,7 +23,7 @@ Each conversation in the data file has the following structure:
 Each utterance has the following fields:
 * __index:__ A 0-based index indicating the order of the utterances in the conversation.
 * __speaker:__ Either USER or ASSISTANT, indicating which role generated this utterance.
-* __text:__ The raw text of the utterance. In case of self dialogs, this is written by the crowdsourced worker. In case of the WOz dialogs, 'ASSISTANT' turns are written and 'USER' turns are transcribed from the spoken recordings of crowdsourced workers.
+* __text:__ The raw text of the utterance. 'ASSISTANT' turns are originally written (then played to the user via TTS) and 'USER' turns are transcribed from the spoken recordings of crowdsourced workers.
 * __segments:__ An array of various text spans with semantic annotations.
 
 Each segment has the following fields:
