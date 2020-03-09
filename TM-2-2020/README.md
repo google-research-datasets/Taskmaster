@@ -35,7 +35,7 @@ Each segment has the following fields:
 Each annotation has a single field:
 * __name:__ The annotation name.
 
-## COLLECTION METHODOLOGIES
+## COLLECTION METHODOLOGY
 Unlike [Taskmaster-1](../TM-1-2019), Taskmaster-2 consists entirely of two-person, spoken conversations. In addition, while Taskmaster-1 is almost exclusively task-based, Taskmaster-2 contains a good number of search- and recommendation-oriented dialogs, as seen for example in the restaurants, flights, hotels, and movies verticals. The music browsing and sports conversations are almost exclusively search- and recommendation-based. 
 All dialogs in this release were created using a Wizard of Oz (WOz) methodology in which crowdsourced workers played the role of a 'user' and trained call center operators played the role of the 'assistant'. In this way, users were led to believe they were interacting with an automated system that “spoke” using text-to-speech (TTS) even though it was in fact a human behind the scenes. As a result, users could express themselves however they chose in the context of an automated interface. 
 
