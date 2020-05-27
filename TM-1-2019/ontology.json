@@ -41,6 +41,6 @@
     "id": "auto_repair",
     "vertical": "appointment",
     "required": ["name.store", "name.customer", "date.appt", "time.appt"],
-    "optional": ["reason.appt", "name.vehicle", "year.vehicle", "location.store"]
+    "optional": ["reason.appt", "name.vehicle", "year.vehicle",L-100"location.store"]
   }
 }
