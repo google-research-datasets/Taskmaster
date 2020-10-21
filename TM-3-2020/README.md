@@ -1,4 +1,4 @@
-# DRAFT 
+# DRAFT - DATASET NOT YET RELEASED
 
 # COPYRIGHT NOTICE
 
@@ -11,25 +11,7 @@ The Taskmaster-3 dataset consists of 24,083 movie ticketing dialogs (located in 
 
 ## STRUCTURE
 Each conversation in the data file has the following structure:
-* __conversation_id:__ A universally unique identifier with the prefix 'dlg-'. The ID has no meaning.
-* __utterances:__ An array of utterances that make up the conversation.
-* __instruction_id:__ A reference to the file(s) containing the user (and, if applicable, agent) instructions for this conversation.
-
-Each utterance has the following fields:
-* __index:__ A 0-based index indicating the order of the utterances in the conversation.
-* __speaker:__ Either USER or ASSISTANT, indicating which role generated this utterance.
-* __text:__ The raw text of the utterance. 'ASSISTANT' turns are originally written (then played to the user via TTS) and 'USER' turns are transcribed from the spoken recordings of crowdsourced workers.
-* __segments:__ An array of various text spans with semantic annotations.
-
-Each segment has the following fields:
-* __start_index:__ The position of the start of the annotation in the utterance text.
-* __end_index:__ The position of the end of the annotation in the utterance text.
-* __text:__ The raw text that has been annotated.
-* __annotations:__ An array of annotation details for this segment.
-
-Each annotation has xxx field:
-
-* xxx
+TBD
 
 ## COLLECTION METHODOLOGY
 This collection was created using the "self-dialog" method.
