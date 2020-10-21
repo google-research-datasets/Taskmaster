@@ -40,8 +40,8 @@ As with the previously released datasets, crowdsourced workers were given instru
 # ONTOLOGY
 Dialog annotations focus on common movie ticketing entities and API calls and responses.
 
-# TRANSCRIPTION NOTES
-As with Taskmaster-1, in a separate task, transcription of crowdsourced user utterances from these two-person dialogs were checked for errors but may still include an occasional typo, misspelling or ungrammatical sequence. In cases where a dialog failed to make sense, workers doing these corrections were given the freedom to insert or delete turns or replace entire phrases with language that made the dialog follow a more sensible path. Shorthand typing conventions originally used by the call center operators such as 'cuz', 'lol' and other non-standard English phrases were left as is. 
+# NOTES
+Dialogs were checked for errors but may still include an occasional typo, misspelling or ungrammatical sequence. Shorthand typing conventions originally used by the  such as 'cuz', 'lol' and other non-standard English phrases were left as is. 
 
 _Comments or questions? Join taskmaster-datasets@googlegroups.com to discuss._
 
