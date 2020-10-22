@@ -14,6 +14,8 @@ This collection was created using the "self-dialog" method. This means a single,
 Each conversation in the data file has the following structure:
 * __conversation_id:__ A universally unique identifier with the prefix 'dlg-'. The ID has no meaning.
 * __utterances:__ An array of utterances that make up the conversation.
+* __vertical:__ In this dataset the vertical for all dialogs is "Movie Tickets".
+* __scenario:__ This is the title of the instructions for each dialog.
 * __instructions:__ Instructions for the crowdsourced worker used in creating the conversation.
 
 Each utterance has the following fields:
