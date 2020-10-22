@@ -7,11 +7,36 @@ This is the work of Bill Byrne, Karthik Krishnamoorthi, and Saravanan Ganesh fro
 # DATA
 
 ## NUMBERS
-The Taskmaster-3 dataset consists of 24,083 movie ticketing dialogs (located in Taskmaster/TM-3-2020/data/).
+The Taskmaster-3 dataset consists of 23,757 movie ticketing dialogs (located in Taskmaster/TM-3-2020/data/).
 
 ## STRUCTURE
 Each conversation in the data file has the following structure:
-TBD
+* __conversation_id:__ A universally unique identifier with the prefix 'dlg-'. The ID has no meaning.
+* __utterances:__ An array of utterances that make up the conversation.
+* __instructions:__ Instructions for the crowdsourced worker used in creating the conversation.
+
+Each utterance has the following fields:
+* __index:__ A 0-based index indicating the order of the utterances in the conversation.
+* __speaker:__ Either "user" or "assistant", indicating which role generated this utterance.
+* __text:__ The raw text of the utterance.
+* __apis:__ An array of API invocations made during the utterance. 
+* __segments:__ An array of various text spans with semantic annotations.
+
+Each API has the following structure:
+* __name:__ The name of the API invoked (e.g. find_movies).
+* __index:__ The index of the parent utterance.
+* __args:__ Key-Value pairs representing the argument names and values for the API.
+* __response:__ Key-Value pairs containing the API response.
+
+Each segment has the following fields:
+* __start_index:__ The position of the start of the annotation in the utterance text.
+* __end_index:__ The position of the end of the annotation in the utterance text.
+* __text:__ The raw text that has been annotated.
+* __annotations:__ An array of annotation details for this segment.
+
+Each annotation has a single field:
+
+* __name:__ The annotation name.
 
 ## COLLECTION METHODOLOGY
 This collection was created using the "self-dialog" method.
