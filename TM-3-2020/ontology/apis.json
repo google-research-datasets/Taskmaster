@@ -1,0 +1,108 @@
+{
+  "book_tickets": {
+    "apis": ["book_tickets"],
+    "args": {
+      "all_of": ["name.movie", "name.theater", "time.showing"],
+      "any_of": ["date.showing", "num.tickets", "seating"]
+    },
+    "response": {
+      "type": "boolean",
+      "keys": ["status"],
+      "true_value": ["success", "available"],
+      "false_value": ["failure", "unavailable"]
+    }
+  },
+  "check_tickets": {
+    "apis": ["check_tickets"],
+    "args": {
+      "all_of": ["name.movie", "name.theater", "time.showing"],
+      "any_of": ["date.showing", "num.tickets", "seating", "time.preference"]
+    },
+    "response": {
+      "type": "boolean",
+      "keys": ["status"],
+      "true_value": ["success", "available"],
+      "false_value": ["failure", "unavailable"]
+    }
+  },
+  "find_movies": {
+    "apis": ["find_movies"],
+    "args": {
+      "any_of": ["location", "name.theater", "name.genre", "type.screening",
+                 "date.release", "description.other", "name.person",
+                 "name.character", "review.audience", "review.critic",
+                 "rating.movies"]
+    },
+    "response": {
+      "type": "list",
+      "keys": ["name.movie", "empty"]
+    }
+  },
+  "find_theaters": {
+    "apis": ["find_theaters"],
+    "args": {
+      "any_of": ["location", "type.screening", "name.movie"]
+    },
+    "response": {
+      "type": "list",
+      "keys": ["name.theater", "empty"]
+    }
+  },
+  "find_showtimes": {
+    "apis": ["find_showtimes"],
+    "args": {
+      "all_of": ["name.movie", "name.theater"],
+      "any_of": ["date.showing", "type.screening", "time.preference",
+                 "location"]
+    },
+    "response": {
+      "type": "list",
+      "keys": ["time.showing", "empty"]
+    }
+  },
+  "get_movie_attribute": {
+    "apis": ["get_movie_attribute"],
+    "args": {
+      "all_of": ["name.movie", "attribute"],
+      "any_of": ["name.genre", "name.person", "name.character", "date.release",
+                 "description.plot", "duration.movie", "review.audience",
+                 "review.critic", "rating.movie"]
+    },
+    "response": {
+      "type": "list",
+      "keys": ["name.genre", "name.person", "name.character", "date.release",
+                "description.plot", "duration.movie", "review.audience",
+                "review.critic", "rating.movie"]
+    }
+  },
+  "resolve_movie": {
+    "apis": ["resolve_movie"],
+    "args": {
+      "all_of": ["name.movie"]
+    },
+    "response": {
+      "type": "list",
+      "keys": ["name.movie"]
+    }
+  },
+  "resolve_location": {
+    "apis": ["resolve_location"],
+    "args": {
+      "all_of": ["location"]
+    },
+    "response": {
+      "type": "list",
+      "keys": ["location"]
+    }
+  },
+  "resolve_theater": {
+    "apis": ["resolve_theater"],
+    "args": {
+      "all_of": ["name.theater", "location"]
+    },
+    "response": {
+      "type": "list",
+      "keys": ["name.theater"]
+    }
+  }
+}

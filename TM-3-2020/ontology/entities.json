@@ -1,0 +1,27 @@
+{
+  "movie": {
+    "vertical": "ticket_booking",
+    "required": ["name.movie", "name.theater"],
+    "optional": [
+      "date.showing",
+      "date.release",
+      "description.plot",
+      "description.other",
+      "duration.movie",
+      "location",
+      "name.character",
+      "name.genre",
+      "name.person",
+      "num.tickets",
+      "price.ticket",
+      "price.total",
+      "rating.movie",
+      "review.audience",
+      "review.critic",
+      "seating",
+      "time.preference",
+      "time.showing",
+      "type.screening"
+    ]
+  }
+}
