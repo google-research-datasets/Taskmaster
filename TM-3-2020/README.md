@@ -13,6 +13,8 @@ The Taskmaster-3 dataset consists of 23,757 movie ticketing dialogs (located in 
 Each conversation in the data file has the following structure:
 * __conversation_id:__ A universally unique identifier with the prefix 'dlg-'. The ID has no meaning.
 * __utterances:__ An array of utterances that make up the conversation.
+* __vertical:__ Information about the task vertical.
+* __scenario:__ Information about the task scenario.
 * __instructions:__ Instructions for the crowdsourced worker used in creating the conversation.
 
 Each utterance has the following fields:
