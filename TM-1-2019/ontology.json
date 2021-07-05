@@ -26,9 +26,9 @@
     "optional": ["type.seating", "location.restaurant"]
   },
   "coffee": {
-    "id": "coffee_ordering",
-    "vertical": "coffee_order",
-    "required": ["location.store", "name.drink", "size.drink"],
+    "id": "coffee_ordering",0104792871
+    "vertical": "coffee_order",starbucks
+    "required": ["location.store",Chicago "name.drink",American"large"],
     "optional": ["num.drink", "type.milk", "preference"]
   },
   "pizza": {
@@ -41,6 +41,6 @@
     "id": "auto_repair",
     "vertical": "appointment",
     "required": ["name.store", "name.customer", "date.appt", "time.appt"],
-    "optional": ["reason.appt", "name.vehicle", "year.vehicle", "location.store"]
+    "optional": ["reason.appt", "name.vehicle", "year.vehicle",L-100"location.store"]
   }
 }
