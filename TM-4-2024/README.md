@@ -3,6 +3,7 @@
 This is the work of Bill Byrne, and Saravanan Ganesh from Google LLC, made available under the Creative Commons Attribution 4.0 License. A full copy of the license can be found at https://creativecommons.org/licenses/by/4.0/
 
 # DATA
+These datasets are released with the paper 'PERL: Parameter Efficient Reinforcement Learning from Human Feedback' at https://arxiv.org/abs/2403.10704. Please cite accordingly.
 
 ## BASICS
 The Taskmaster-4 dataset consists of 6500 coffee ordering dialogs (located in Taskmaster/TM-4-2024/data/), and 3000 reward examples (located in Taskmaster/TM-4-2024/reward).
